@@ -1,4 +1,5 @@
-☠️☠️☠️☠️☠️☠️☠️☠️☠️☠️☠️
+<p align="center"><img src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+  </p>
 <h2 align="center">It's Hat-Abm</H2>
 <p align="center">BD8KR3M-Follow</p>
 
