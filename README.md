@@ -1,10 +1,19 @@
-### This is Hat-Abm
-
+<p align="center">
+<h2>It's Hat-Abm</H2>
+</p>
 
 ### BD8KR3M-Follow:👇👇
 
 
 [![Mail Badge](https://img.shields.io/badge/-termuxpointyt-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/c/TermuxPointYT)  [![Mail Badge](https://img.shields.io/badge/-@abm_mujahid-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/abm_mujahid) [![Mail Badge](https://img.shields.io/badge/-abmmujahid-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:abmmojahid@gmail.com)
+
+
+<p align="center">
+<a href="https://github.com/bd8kr3m"><img title="Github" src="https://img.shields.io/badge/Github-BD8KR3M-blue?style=for-the-badge&logo=github"></a>
+</p>
+<p align="center">
+<a href="https://fb.com/hackerabm"><img title="Facebook" src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=facebook"></a>
+</p>
 
 
 #### Github Stats
