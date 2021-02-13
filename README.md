@@ -8,8 +8,6 @@
 #### Github Stats
 
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=bd8kr3m&count_private=true&theme=tokyonight&hide=contribs,prs)
-
-<br>
 <p align="center">
 <a href="https://github.com/bd8kr3m"><img title="Github" src="https://img.shields.io/badge/Github-BD8KR3M-blue?style=for-the-badge&logo=github"></a>
 <a href="https://fb.com/hackerabm"><img title="Facebook" src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=facebook"></a>
