@@ -10,8 +10,6 @@
 
 <p align="center">
 <a href="https://github.com/bd8kr3m"><img title="Github" src="https://img.shields.io/badge/Github-BD8KR3M-blue?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
 <a href="https://fb.com/hackerabm"><img title="Facebook" src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=facebook"></a>
 </p>
 
