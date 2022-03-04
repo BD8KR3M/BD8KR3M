@@ -24,7 +24,7 @@
 - :email: abmmojahid@gmail.com
 
 
-#### Profile Visits:👇
+#### Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=bd8kr3m)
 
