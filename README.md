@@ -4,11 +4,15 @@
   </p>
 <p align="center"><a href="https://github.com/bd8kr3m"><img src="https://user-images.githubusercontent.com/57522482/107873075-b5ae7500-6ed9-11eb-8442-313bac10254b.gif" height='195' alt="HAT-ABM"></p>
 
-<p align="center">BD8KR3M-Follow</p>
+<p align="center">BD8KR3M</p>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/hatabm.png" alt="TryHackMe">
+[![Mail Badge](https://img.shields.io/badge/-Tryhackme-361d26?style=flat&labelColor=e74c3c)](https://tryhackme.com/p/hatabm)
 
-[![Mail Badge](https://img.shields.io/badge/-termuxpointyt-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/c/TermuxPointYT)  [![Mail Badge](https://img.shields.io/badge/-@abm_mujahid-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/abm_mujahid)
+
+[![Mail Badge](https://img.shields.io/badge/-AbmMujahid-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/c/AbmMujahid) 
+
+
+[![Mail Badge](https://img.shields.io/badge/-AbmMujahid-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/abm_mujahid)
 
 #### Github Stats
 
